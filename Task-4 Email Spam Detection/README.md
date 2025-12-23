@@ -1,6 +1,6 @@
 # Task 4 – Email Spam Detection using Machine Learning
 
-## 📌 Objective
+## Objective
 To classify emails/SMS messages as spam or non-spam using machine learning techniques.
 
 ## Dataset
