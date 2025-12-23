@@ -1,9 +1,9 @@
 # Task 2 – Unemployment Analysis with Python
 
-## 📌 Objective
+## Objective
 To analyze unemployment trends in India using data visualization and statistical methods.
 
-## 📂 Dataset
+## Dataset
 Source: Kaggle  
 Contains:  
 - Date  
@@ -12,28 +12,28 @@ Contains:
 - Labour Participation  
 - Employment Estimates  
 
-## 🔧 Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 
-## 📊 Key Work Done
+## Key Work Done
 - Cleaned and preprocessed the dataset  
 - Performed exploratory data analysis (EDA)  
 - Visualized unemployment rate distribution  
 - Analyzed state-wise trends  
 - Studied Covid-19 impact on unemployment  
 
-## 📝 Insights
+## Insights
 - Unemployment spiked during Covid-19 months  
 - Some regions consistently showed higher rates  
 - Labour participation is negatively correlated with unemployment  
 
-## 📁 Files
+## Files
 - `unemployment_analysis.ipynb` : Full code  
-- `dataset.csv` : Dataset used  
+- `Unemployment in India.csv` : Dataset used  
 
 ## 👨‍💻 Author
 Jhil Patel
