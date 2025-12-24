@@ -28,5 +28,5 @@ Random Forest model achieved better accuracy compared to Linear Regression.
 - `car_price_prediction.ipynb`
 - `car data.csv`
 
-## 👨‍💻 Author
+## Author
 Jhil Patel
