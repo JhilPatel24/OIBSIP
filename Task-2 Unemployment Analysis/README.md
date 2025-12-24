@@ -35,5 +35,5 @@ Contains:
 - `unemployment_analysis.ipynb` : Full code  
 - `Unemployment in India.csv` : Dataset used  
 
-## 👨‍💻 Author
+## Author
 Jhil Patel
